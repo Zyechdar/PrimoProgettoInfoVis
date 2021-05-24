@@ -1,0 +1,83 @@
+[
+    {
+      "horizontalPosition": 100,
+      "verticalPosition": 100,
+      "larghezzaAddome": 15,
+      "legLength": 18,
+      "eyeDimension": 5,
+      "lunghezzaAntenna":16  
+    },
+    {
+      "horizontalPosition": 300,
+      "verticalPosition": 100,
+      "larghezzaAddome": 20,
+      "legLength": 30,
+      "eyeDimension": 2,
+      "lunghezzaAntenna": 15
+    },
+    {
+      "horizontalPosition": 500,
+      "verticalPosition": 100,
+      "larghezzaAddome": 25,
+      "legLength": 25,
+      "eyeDimension": 3,
+      "lunghezzaAntenna": 23
+    },
+    {
+      "horizontalPosition": 700,
+      "verticalPosition": 100,
+      "larghezzaAddome": 30,
+      "legLength": 15,
+      "eyeDimension": 2,
+      "lunghezzaAntenna": 63
+    },
+    {
+      "horizontalPosition": 900,
+      "verticalPosition": 100,
+      "larghezzaAddome": 35,
+      "legLength": 33,
+      "eyeDimension": 3,
+      "lunghezzaAntenna": 6
+    },
+    {
+      "horizontalPosition": 100,
+      "verticalPosition": 400,
+      "larghezzaAddome": 40,
+      "legLength": 12,
+      "eyeDimension": 2,
+      "lunghezzaAntenna": 63
+    },
+    {
+      "horizontalPosition": 300,
+      "verticalPosition": 400,
+      "larghezzaAddome": 30,
+      "legLength": 27,
+      "eyeDimension": 7,
+      "lunghezzaAntenna": 63 
+    },
+    {
+      "horizontalPosition": 500,
+      "verticalPosition": 400,
+      "larghezzaAddome": 20,
+      "legLength": 22,
+      "eyeDimension": 2,
+      "lunghezzaAntenna": 63 
+    },
+    {
+      "horizontalPosition": 700,
+      "verticalPosition": 400,
+      "larghezzaAddome": 15,
+      "legLength": 35,
+      "eyeDimension": 2,
+      "lunghezzaAntenna": 63  
+    },
+    {
+      "horizontalPosition": 900,
+      "verticalPosition": 400,
+      "larghezzaAddome": 10,
+      "legLength": 50,
+      "eyeDimension": 1,
+      "lunghezzaAntenna": 43  
+    }
+  
+  ]
